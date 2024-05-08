@@ -3,7 +3,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-blue-100">
+    <div className="flex justify-center items-center min-h-screen bg-[#DFD0B8]">
       <div className="card card-compact w-96 bg-base-100 shadow-xl">
         <figure>
           <Image
